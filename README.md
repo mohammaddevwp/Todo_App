@@ -70,6 +70,6 @@
 پروژه تحت مجوز MIT منتشر شده و به صورت متن‌باز در اختیار شما قرار دارد. استفاده، ویرایش و توسعه آن آزاد است.
 ![image](https://github.com/user-attachments/assets/f6f6d099-def3-45c3-80bc-68ce6ff3ef82)
 ![image](https://github.com/user-attachments/assets/655b526e-4cca-4613-93a8-91d0651b485c)
-
-
-
+![image](https://github.com/user-attachments/assets/44de55b2-f737-41a0-b4f8-a3dcaf3b70aa)
+![image](https://github.com/user-attachments/assets/8b0855b4-df83-49b4-9180-143ac9cf3781)
+![image](https://github.com/user-attachments/assets/55f65f44-c122-4d4e-8bf2-fe5d9734abec)
